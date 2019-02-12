@@ -9,7 +9,7 @@ GROUPS
 0. ID
 1. Religion (general category and also specific subset)
 2. Location/area id
-3. # of members (estimate)
+3. Number of members (estimate)
 4. Territory size
 5. GDP
 6. GDP per person
