@@ -6,6 +6,7 @@ paper draft: https://www.overleaf.com/9127973233rkctnjhrbxdr
 List of attributes/columns that scrapers should be capturing (when possible):
 
 GROUPS:
+
 0. ID
 1. Religion (general category and also specific subset)
 2. Location/area id
@@ -20,6 +21,7 @@ In database, make a table GROUPS with each of these as a column. One date of mea
 Foreign keys on: Religions, location, source columns
 
 CONFLICT EVENTS:
+
 0. ID
 1. Number of people who fought
 2. Number of casualties
@@ -36,6 +38,7 @@ In database, one row per agent in an event. If 3 agents are involved in an event
 Foreign keys on: Location, group id, source columns
 
 TRANSACTIONS:
+
 0. ID
 1. Items and amount traded (money, weapons, delegated, support, etc etc)
 2. Time
