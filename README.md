@@ -2,6 +2,12 @@
 
 paper draft: https://www.overleaf.com/9127973233rkctnjhrbxdr
 
+GTD dataset: https://www.dropbox.com/s/1z6hjnv3kwqexga/1970to2017GTDGeodatabase.zip?dl=0
+(Too big to upload in github)
+
+GTD citation: 
+National Consortium for the Study of Terrorism and Responses to Terrorism (START). (2018). Global Terrorism Database [Data file]. Retrieved from https://www.start.umd.edu/gtd
+
 
 List of attributes/columns that scrapers should be capturing (when possible):
 
